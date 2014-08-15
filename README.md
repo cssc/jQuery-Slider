@@ -1,4 +1,4 @@
-# CSS3 jQuery Slideshow
+# CSS3 jQuery Slider
 Picture slider in pure CSS. Zero jQuery, zero JavaScript, no picture icons, no programming! It's amazingly fast, lightweight, liquid, and retina-ready. 
 Works perfectly on each modern devices and internet browsers. Fade, Zoom, KenBurns, Slide effects and a bunch of flat designs are included.
 [Download now](http://cssslider.com/) or see [live demo](http://cssslider.com/non-jquery-slider-1.html)!
