@@ -1,0 +1,29 @@
+{
+	"name": "jQuerySlider",
+	"title": "CSS3 jQuery Slider",
+	"description": "Nice image slider created completely with CSS core. It's amazingly fast, lightweight, fluid, and retina-ready. Works on each modern devices and browsers. Smooth Fade, Slick Zoom, KenBurns pan/zoom, Simple Slide effects and a set of flat designs are included.",
+	"keywords": [ "animation", "html5","ui", "effect", "scroll", "gallery", "image", "slider", "javascript", "jquery", "photo", "css", "picture", "plugin", "responsive", "slider", "slideshow"],
+	"version": "1.0.3",
+	"author": {
+		"name": "jQuery Slider",
+		"url": "http://cssslider.com/non-jquery-slider-1.html"
+	},
+	"maintainers": [
+	{
+		"name": "cssc",
+		"url": "https://github.com/cssc/jQuery-Slider"
+	}
+	],
+	"licenses": [
+	{
+		"type": "Free for non-commercial use",
+		"url": "https://github.com/cssc/jQuery-Slider"
+	}
+	],
+	"homepage": "https://github.com/cssc/jQuery-Slider",
+	"demo":  "http://cssslider.com/non-jquery-slider-1.html",
+	"download": "http://cssslider.com/",
+	"dependencies": {
+		"jquery": ">=1.5"
+	}
+}
